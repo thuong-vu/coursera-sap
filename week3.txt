@@ -1,0 +1,86 @@
+1. personal management.
+    - set a goal
+    - listed activities and set out order
+    - listed dependencies
+    - decided on the time and resource allocation
+    - relationships and communication
+    - prioritized activities
+    - time management
+2. project management
+3. project lifecycle:
+    - establish business value
+    - project steering team: this team sets project goals, scope, standards, roles, responsibilities, strategies, and tracking methods including any metrics, such as Key Performance Indicators (KPIs)
+    - Kickoff meeting: a projectt plan is written that provides the direction for the entire project and can be used for reference.
+    - gap analysis: this is time for time for refining and confirming business requirements, documenting requirements, and addressing project issues.
+    - Project deliverables: communication is key in project management. This is ensure that everyone is aligned on priorities for specific days, weeks, and on resource allocations. It is better to over-communicate than to under-communicate, but also only communicate what is relevant.
+    - Phase sign-off: remember when you broke down your project into smaller pieces, these pieces can each be considered a project in their own right.
+    - Final delivery: the customer must verify if the product or solution is working for them, and this means testing and more testing.
+    - On-going customer relationship
+4. Project management method:
+    - Water fall: requirements -> design -> implementation -> verification -> maintenance
+        + leader's key responsibilities:
+            * build a business case
+            * set up a schedule
+            * set up methods for tracking and reporting
+            * determine priorities
+            * create a budget
+            * monitor costs
+            * commicate with team
+            * support the team
+    - Agile: it emphasizes individuals and interactions over processes and tools.
+        + Iterations: Design -> customer review -> improvement
+        + Agile = be flexible and respond to change.
+        + Agile includes continuous improvement continuous iterating, testing and improving
+    - DevOps: encourage Testing -> Learning -> continuous improvement
+        + devops leaders should work in removing blockers, working across functions, and communicating with trust and respect.
+        + Cross-functional teams
+    - Cloud-based computing:
+        + Upgrades or fixes are applied to the microservice rather than the entire system
+        + It enables team members to avoid storing files on laptops that can be left on trains, or on local PCs that can become corrupted.
+5. Effective relationships and collaboration:
+    - building relationships at work
+    - collaborating with team members
+    - other teams, customers, and partners
+    - team members should be:
+        + align on common goals and objectives
+        + build strong relationships
+        + reduce conflict
+        + reduce waste
+        + maintain clarity of purpose
+    - Common goals should be:
+        + audacious goals
+        + easy to understand
+        + inspiring
+        + opens up possibilities
+    - 6 components of trust:
+        + competence: skill
+        + reliability: a track record
+        + consistency: goodjudment
+        + caring: workable connections
+        + authenticity: emotional maturity
+        + shared experience: creates bonds
+    - Business acumen: includes financial literacty, stakeholder awareness, organizational knowledge
+        + add to your business acumen by being curious, commiting to learning, and researching your company.
+    - Political sensitivity: 
+    - Build cultural awareness by:
+        + learn, listen, be curious
+        + open to different viewpoints
+        + respectful of differences
+6. Applying functional and domain knowledge in context:
+    - Functional areas of business:
+        + Human resources, Finance, Accounting
+        + or Employee experience management, financial control, enterprise resources planning
+        -> functional consultants understand:
+            * business processes
+            * business functions
+            * the fit between the client's processes, problems, and software.
+        + a functional consultant's role:
+            * understand a business problem
+            * how technology can resolve a problem
+    - Domain skills: understand about the environment of particular industries ( aerospace, auto manufacturing, retail, pharmaceuticals, health care)
+        + domain skills emphasize on: industry dynamics, business processes.
+    - Functional skills are insight into a pain point relevant to your expertise,
+    while Domain skills are deep understanding of pain points relevent to the industry.
+        -> functional and domain combined: understanding of functions in the contect of a specific industry.
+    - learning resources: learning.sap.com, openSAP
+    
